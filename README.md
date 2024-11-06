@@ -39,16 +39,13 @@ Ensure you have the following installed:
 - **Node.js** (v14 or higher)
 - **npm** or **yarn**
 
-### Installation Steps
+Installation Steps
+Clone the repository:
 
-1. Clone the repository:
 
-   ```bash
-https://github.com/abhishek-sharma20/peritys-ki-shop-by-abhishek.git
+git clone https://github.com/abhishek-sharma20/peritys-ki-shop-by-abhishek.git
 cd nextjs-ecommerce
-   ```
-
-2. Install dependencies:
+Install dependencies:
 
    Using npm:
    ```bash
