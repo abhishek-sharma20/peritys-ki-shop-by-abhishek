@@ -1,4 +1,3 @@
-Here is a **README.md** template for the Next.js e-commerce website project:
 
 ---
 
