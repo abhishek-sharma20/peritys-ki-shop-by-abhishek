@@ -44,8 +44,8 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/nextjs-ecommerce.git
-   cd nextjs-ecommerce
+https://github.com/abhishek-sharma20/peritys-ki-shop-by-abhishek.git
+cd nextjs-ecommerce
    ```
 
 2. Install dependencies:
