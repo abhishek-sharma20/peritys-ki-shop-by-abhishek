@@ -1,4 +1,4 @@
-// components/Cart.js
+ // components/Cart.js
 import { useCart } from '../context/CartContext';
 import Link from 'next/link';
 
